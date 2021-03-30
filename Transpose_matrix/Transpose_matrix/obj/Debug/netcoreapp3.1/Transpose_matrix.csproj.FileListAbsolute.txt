@@ -1,0 +1,13 @@
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\bin\Debug\netcoreapp3.1\Transpose_matrix.exe
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\bin\Debug\netcoreapp3.1\Transpose_matrix.deps.json
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\bin\Debug\netcoreapp3.1\Transpose_matrix.runtimeconfig.json
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\bin\Debug\netcoreapp3.1\Transpose_matrix.runtimeconfig.dev.json
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\bin\Debug\netcoreapp3.1\Transpose_matrix.dll
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\bin\Debug\netcoreapp3.1\Transpose_matrix.pdb
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.csprojAssemblyReference.cache
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.AssemblyInfoInputs.cache
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.AssemblyInfo.cs
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.csproj.CoreCompileInputs.cache
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.dll
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.pdb
+C:\Users\82105\source\repos\Transpose_matrix\Transpose_matrix\obj\Debug\netcoreapp3.1\Transpose_matrix.genruntimeconfig.cache
